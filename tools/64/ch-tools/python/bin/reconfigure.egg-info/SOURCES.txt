@@ -1,0 +1,5 @@
+reconfigure.egg-info/PKG-INFO
+reconfigure.egg-info/SOURCES.txt
+reconfigure.egg-info/dependency_links.txt
+reconfigure.egg-info/requires.txt
+reconfigure.egg-info/top_level.txt
